@@ -1,0 +1,1 @@
+Pasta criada para armazenar exercícios.
